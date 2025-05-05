@@ -4,7 +4,7 @@ Project Summary:
 
 This project focuses on predicting the profit generated from individual sales transactions using machine learning regression models. Utilizing a sales transaction dataset, we explore the data, preprocess it, and train two predictive models: Multiple Linear Regression and Random Forest Regressor. The models are compared based on standard regression metrics (RMSE, MAE, R²) to determine the most effective approach for this dataset. Key drivers of profit according to the best model are also identified.
 
-Project Objectives
+Project Objectives:
 *   Develop and compare machine learning models (Linear Regression, Random Forest) to predict transaction profit.
 *   Identify the key features (e.g., Amount, Quantity, Category, State) that most influence profit predictions.
 *   Evaluate model performance using appropriate regression metrics (RMSE, MAE, R²).
