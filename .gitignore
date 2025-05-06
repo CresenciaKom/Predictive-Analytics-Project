@@ -1,0 +1,36 @@
+# ----------------------------
+# Jupyter and Colab
+# ----------------------------
+.ipynb_checkpoints/
+*.ipynb~*
+
+# ----------------------------
+# Python cache and artifacts
+# ----------------------------
+__pycache__/
+*.py[cod]
+*.so
+
+# ----------------------------
+# Virtual environments and config
+# ----------------------------
+env/
+venv/
+.venv/
+.env
+
+# ----------------------------
+# System and editor files
+# ----------------------------
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# ----------------------------
+# Unused exports or temp files
+# ----------------------------
+*.html   # e.g., auto-exported blank HTML files
+
+# ----------------------------
+
