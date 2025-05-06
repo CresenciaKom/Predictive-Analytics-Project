@@ -12,10 +12,11 @@ Project Objectives:
   
 Dataset
 Data Source: https://www.kaggle.com/datasets/shantanugarg274/sales-dataset
+A .csv copy of this dataset is in the **data** folder.
 
 This dataset contains detailed sales transactions, including order details, revenue, profit, and customer information.  The target variable for prediction is Profit.
 
-Tools and Libraries Used
+Tools and Libraries Used:
 *   Python
 *   **Core Libraries:**
     *   Pandas
@@ -26,9 +27,19 @@ Tools and Libraries Used
     *   kagglehub
 *   **Environment:** Google Colab
 
-Google colab link: https://colab.research.google.com/drive/1EBUpEmxAly5tuwVR6Ltoufu89JFzXy3z?usp=sharing
+Google colab link:
+Click the link below to open and run the full analysis in Colab:
+https://colab.research.google.com/drive/1EBUpEmxAly5tuwVR6Ltoufu89JFzXy3z?usp=sharing
 
+Final Report:
+The full report is available in the `reports/` folder as a PDF:  
+**`reports/Profit Prediction report.pdf`**
 
+Visualizations:
+All plots and charts from the analysis can be found in the `visualizations/` folder, including:
+- EDA plots
+- Feature importance visualizations
+- Model performance comparisons
 
 
 
